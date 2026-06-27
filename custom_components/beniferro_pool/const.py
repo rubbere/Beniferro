@@ -1,0 +1,3 @@
+DOMAIN="beniferro_pool"
+CONF_HOST="host"
+DEFAULT_SCAN_INTERVAL=30
