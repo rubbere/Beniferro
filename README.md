@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rubbere/beniferro-pool/main/custom_components/beniferro_pool/brand/logo.png" width="200">
+<img src="https://raw.githubusercontent.com/rubbere/beniferro/main/custom_components/beniferro_pool/brand/logo.png" width="200">
 
 # Beniferro Pool (Home Assistant)
 
